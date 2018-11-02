@@ -143,7 +143,7 @@ end
 ```
 
 ```ruby
-class Kid
+class Dancer
   extend MetaDancing
 end
 ```
